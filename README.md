@@ -14,8 +14,4 @@ Here are some ideas to get you started:
 <br/>
 - 💬 Ask me about anything
 <br/>
-- 📫 How to reach me: under the avatar
-<br/>
-- 😄 Pronouns: alive/happy
-<br/>
 - ⚡ Fun fact: I can also cook 
