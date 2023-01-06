@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 <br/>
 
 <!--
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 --!>
 - 🔭 I’m currently working on a my take on anilist.
 <br/>
-- ⚡ Fun fact: I also cook 
+- ⚡ Fun fact: I also cook  -->
 <br/>
 <br/>
 
