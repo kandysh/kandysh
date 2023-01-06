@@ -6,12 +6,10 @@
 
 Here are some ideas to get you started:
 --!>
-- 🔭 I’m currently working on a super cool project
+- 🔭 I’m currently working on a my take on anilist.
 <br/>
-- 🌱 I’m currently learning java and c#
-<br/>
-- 👯 I’m looking to collaborate on any python projects
+- 👯 I’m looking to collaborate on any cool projects
 <br/>
 - 💬 Ask me about anything
 <br/>
-- ⚡ Fun fact: I can also cook 
+- ⚡ Fun fact: I also cook 
